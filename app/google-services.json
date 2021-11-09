@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "340722418077",
+    "project_id": "circulodeseguridad-2ca56",
+    "storage_bucket": "circulodeseguridad-2ca56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340722418077:android:396f1360b5e020525b6f74",
+        "android_client_info": {
+          "package_name": "com.sosa.circulodeseguridad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "340722418077-cbh5nlabh2be7djloijij64a9gtdonhn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxPhHq6JtGEfSlYsIl8NOwkj6Fj7lO-iI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "340722418077-cbh5nlabh2be7djloijij64a9gtdonhn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
